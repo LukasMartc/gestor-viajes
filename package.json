@@ -1,0 +1,26 @@
+{
+  "name": "gestor-viajes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasMartc/gestor-viajes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukasMartc/gestor-viajes/issues"
+  },
+  "homepage": "https://github.com/LukasMartc/gestor-viajes#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.1.0"
+  }
+}
